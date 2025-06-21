@@ -37,7 +37,7 @@
         <mxCell id="iPsZU71QiSpZRJ65mf2H-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iPsZU71QiSpZRJ65mf2H-16" target="iPsZU71QiSpZRJ65mf2H-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iPsZU71QiSpZRJ65mf2H-16" value="Lengthwise and crosswise cutting unit&lt;div&gt;纵向和横向切割站&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iPsZU71QiSpZRJ65mf2H-16" value="8.Lengthwise and crosswise cutting unit&lt;div&gt;纵向和横向切割站&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="-690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iPsZU71QiSpZRJ65mf2H-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iPsZU71QiSpZRJ65mf2H-18" target="iPsZU71QiSpZRJ65mf2H-20">
