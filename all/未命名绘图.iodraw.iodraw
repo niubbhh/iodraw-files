@@ -22,7 +22,7 @@
         <mxCell id="iPsZU71QiSpZRJ65mf2H-9" value="Infeed line&lt;div&gt;（manual loading）&lt;/div&gt;&lt;div&gt;上料区域 手动上料&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="-970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iPsZU71QiSpZRJ65mf2H-11" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iPsZU71QiSpZRJ65mf2H-11" value="Forming station of the top web with lifting unit" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="-830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
