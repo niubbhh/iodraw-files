@@ -49,8 +49,14 @@
         <mxCell id="iPsZU71QiSpZRJ65mf2H-20" value="Advance and chain（Discharge conveyor）&lt;div&gt;前驱和链条（出料输送带）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="-510" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iPsZU71QiSpZRJ65mf2H-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iPsZU71QiSpZRJ65mf2H-22" target="iPsZU71QiSpZRJ65mf2H-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iPsZU71QiSpZRJ65mf2H-22" value="Vacuum pumps unit&lt;div&gt;真空泵单元&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="-1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iPsZU71QiSpZRJ65mf2H-24" value="Vacuum pumps unit&lt;div&gt;真空泵单元&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="-1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
