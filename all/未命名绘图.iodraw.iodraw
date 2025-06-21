@@ -55,8 +55,11 @@
         <mxCell id="iPsZU71QiSpZRJ65mf2H-22" value="Vacuum pumps unit&lt;div&gt;真空泵单元&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="-1050" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iPsZU71QiSpZRJ65mf2H-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iPsZU71QiSpZRJ65mf2H-24" target="iPsZU71QiSpZRJ65mf2H-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iPsZU71QiSpZRJ65mf2H-24" value="Cooling water unit&lt;div&gt;冷却水回路&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="-1050" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="-1050" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
