@@ -94,14 +94,14 @@
         </mxCell>
         <mxCell id="iPsZU71QiSpZRJ65mf2H-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iPsZU71QiSpZRJ65mf2H-37">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="-880" as="targetPoint" />
+            <mxPoint x="440" y="-800" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="450" y="-880" />
+              <mxPoint x="440" y="-800" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iPsZU71QiSpZRJ65mf2H-37" value="Printing on outside of inner bag&lt;div&gt;内袋外侧打印&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="-900" width="190" height="40" as="geometry" />
+        <mxCell id="iPsZU71QiSpZRJ65mf2H-37" value="HMI 控制" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="-820" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
