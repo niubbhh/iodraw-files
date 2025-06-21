@@ -14,16 +14,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iPsZU71QiSpZRJ65mf2H-7" value="&lt;span lang=&quot;EN-US&quot;&gt;Forming station with lifting unit&lt;/span&gt;&lt;div&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;带提升机构的&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;下膜成型站&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="-1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="-1050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iPsZU71QiSpZRJ65mf2H-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iPsZU71QiSpZRJ65mf2H-9" target="iPsZU71QiSpZRJ65mf2H-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iPsZU71QiSpZRJ65mf2H-9" value="Infeed line&lt;div&gt;（manual loading）&lt;/div&gt;&lt;div&gt;上料区域 手动上料&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="-970" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="-960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iPsZU71QiSpZRJ65mf2H-11" value="Forming station of the top web with lifting unit" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="-880" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="-870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
