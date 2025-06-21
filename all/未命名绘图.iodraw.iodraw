@@ -40,7 +40,7 @@
         <mxCell id="iPsZU71QiSpZRJ65mf2H-16" value="Lengthwise and crosswise cutting unit&lt;div&gt;纵向和横向切割站&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="-690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iPsZU71QiSpZRJ65mf2H-18" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iPsZU71QiSpZRJ65mf2H-18" value="Product discharge and edge trim&lt;div&gt;产品卸料和切边去除&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="-550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
