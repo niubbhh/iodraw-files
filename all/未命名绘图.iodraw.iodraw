@@ -70,7 +70,7 @@
         <mxCell id="iPsZU71QiSpZRJ65mf2H-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iPsZU71QiSpZRJ65mf2H-29" target="iPsZU71QiSpZRJ65mf2H-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iPsZU71QiSpZRJ65mf2H-29" value="Solution bag put in zone&lt;span style=&quot;background-color: initial;&quot;&gt;（after filling）&lt;/span&gt;&lt;div&gt;溶液袋放置区域（&lt;span style=&quot;background-color: initial;&quot;&gt;灌装后&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iPsZU71QiSpZRJ65mf2H-29" value="Upper web infeed&lt;div&gt;（Containing printing mechanism）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="-870" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
