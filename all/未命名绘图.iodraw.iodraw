@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iPsZU71QiSpZRJ65mf2H-11" value="Forming station of the top web with lifting unit&lt;div&gt;带提升机构的上膜成型站&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="367.5" y="-870" width="145" height="60" as="geometry" />
+          <mxGeometry x="367.5" y="-870" width="132.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iPsZU71QiSpZRJ65mf2H-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iPsZU71QiSpZRJ65mf2H-14" target="iPsZU71QiSpZRJ65mf2H-16">
           <mxGeometry relative="1" as="geometry" />
@@ -81,8 +81,11 @@
         <mxCell id="iPsZU71QiSpZRJ65mf2H-31" value="Upper web infeed&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;mechanism&lt;/span&gt;&lt;div&gt;上膜放卷机构&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="-870" width="190" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iPsZU71QiSpZRJ65mf2H-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iPsZU71QiSpZRJ65mf2H-34" target="iPsZU71QiSpZRJ65mf2H-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iPsZU71QiSpZRJ65mf2H-34" value="Printing on outside of inner bag" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="-940" width="190" height="60" as="geometry" />
+          <mxGeometry x="590" y="-920" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
